@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello, my name is Grant. I like taking my dog to the dog park, listening to music, and making things. I am going to NCC for engineering. I hope to learn the basics of C++ and computer science.
 
 <!--
 **Gdieter915/Gdieter915** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
